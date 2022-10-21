@@ -21,6 +21,11 @@ body {
   font-family: "Outfit", sans-serif;
 }
 
+.card {
+  background-color: var(--white);
+  padding: 1.25rem;
+}
+
 .attribution {
   position: absolute;
   bottom: 1rem;
